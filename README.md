@@ -1,1 +1,1 @@
-# Tips_project
+# Project_tips
